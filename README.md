@@ -15,4 +15,20 @@ Este é um sistema bancário simples desenvolvido em Java, simulando operações
 
 - **Java**  
 - **Paradigma Orientado a Objetos**  
-- **Listas e Interfaces**  
+- **Listas e Interfaces**
+
+## Autor 
+<table>
+  <tr>
+    <td>
+      <img width="80px" align="center" src="https://avatars.githubusercontent.com/H4ttiz"/>
+    </td>
+    <td align="left">
+      <a href="https://github.com/H4ttiz">
+        <span><b>Leonardo Bezerra da Silva</b></span>
+      </a>
+      <br>
+      <span>Desenvolvedor Back-end</span>
+    </td>
+  </tr>
+</table>
